@@ -1,1 +1,13 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<Environment>Description of environment</Environment>
+<ID>1</ID>
+<Summary>What?Where?Why?</Summary>
+<STR></STR>
+         <Step1>step description</Step1>
+         <Step2>step description</Step2>         
+<version>Number version</version>
+<Severity>Can be categorized into four parts</Severity>
+<Priority>Can be categorized into three parts</Priority>
+<Expected Result>Description of expected result</Expected Result>
+<Actual Result>Description of actual result</Actual Result>
+<Attachments>link</Attachments>
